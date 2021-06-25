@@ -1,0 +1,210 @@
+
+  body{
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+}  
+
+div{
+    background-color:#f0fcff ;
+    
+    
+    
+}
+.layer2{
+    background-image: url('mountain3.png');
+    height: 600px;
+
+}
+.a{
+    margin-bottom: 0;
+    position: relative;
+    color: #0A1931;
+}
+h2{
+    font-family: 'Big Shoulders Stencil Display',cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0;
+    color: #39A2DB;
+}
+h1{
+    font-family: 'Sacramento',cursive;
+    font-size: 80px;
+    text-align: center;
+    color: #0A1931;
+}
+p{
+    font-family: 'Sacramento',cursive;
+    font-size: 60px;
+    text-align: center;
+    color: #39A2DB;
+}
+.layer{
+    background-color: #0A1931;
+    
+}
+.my{
+    margin-top: 40px;
+    position: relative;
+    left: 780px;
+}
+.f{
+    font-family:'Work Sans', sans-serif;
+    color: #f0fcff;
+    font-size: 30px;
+    
+}
+.t{
+    font-family:'Work Sans', sans-serif;
+    color: #f0fcff;
+    font-size: 30px;
+    margin-bottom: 0;
+    position: relative;
+    bottom: 10px;
+}
+.profile{
+    color: #EDEDED;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+.layer1{
+    background-color: #293B5F;
+    height: 1900px;
+}
+.skills{
+    position: relative;
+    top: 15px;
+    color: #EDEDED;
+}
+.scontent{
+    position: relative;
+    right: 580px;
+    top: 10px;
+    color: #39A2DB;
+}
+.scontent5{
+    position: relative;
+    right: 580px;
+    top: 55px;
+    color: #39A2DB;
+
+}
+.photoshop{
+    position: relative;
+    left: 250px;
+    top: 40px;
+}
+.maya{
+    position: relative;
+    left: 250px;
+}
+.scontent2{
+    position: relative;
+    bottom: 670px;
+}
+.substance{
+    position: relative;
+    left: 815px;
+    bottom: 710px;
+}
+.scontent3{
+    position: relative;
+    bottom: 680px;
+
+}
+.Mari{
+    position: relative;
+    left: 815px;
+    bottom: 720px;
+}
+.scontent4{
+    position: relative;
+    bottom: 1220px;
+    left: 460px;
+
+}
+.xbrush{
+    position: relative;
+    left: 1250px;
+    bottom: 1250px;
+}
+.projects{
+    position: relative;
+    bottom: 700px;
+    color: #EDEDED;
+}
+.superv{
+    position: relative;
+    bottom: 680px;}
+
+.poster{
+    position: relative;
+    bottom: 680px;
+    left: 750px;
+    
+}
+.personal{
+    position: relative;
+    bottom: 650px;
+}
+.link{
+    position: relative;
+    bottom: 650px;
+    left: 790px;
+    color: #00EAD3;
+    font-family:  'Big Shoulders Stencil Display',cursive;
+    font-size: 40px;
+}
+.layer3{
+    background-color: black;
+    height: 550px;
+    margin-bottom: 0;
+    font-family: 'Big Shoulders Stencil Display',cursive;
+    font-size: 30px;
+}
+.contact{
+    color:  #EDEDED;
+    position: relative;
+    top: 50px;
+    padding-left: 100px;
+    
+}
+.insta{
+    position: relative;
+    left: 1275px;
+    bottom: 315px;
+}
+.contact1{
+    position: relative;
+    right: 760px;
+    top: 40px;
+ 
+}
+.contact2{
+    position: relative;
+    bottom: 320px;
+    left: 400px;
+}
+.linkedin{
+        position: relative;
+        left: 1285px;
+        bottom: 290px;
+    
+}
+button{
+    position: relative;
+    left: 250px;
+    height: 50px;
+    font-family:'Big Shoulders Stencil Display',cursive ;
+    font-size: 30px;
+    color: #0A1931;
+    background-color: #f0fcff;
+   
+}
+.copy{
+    position: relative;
+    bottom: 100px;
+    color:#f0fcff ;
+}
